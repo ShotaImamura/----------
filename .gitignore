@@ -1,0 +1,15 @@
+#igonores
+#audio directory
+audio
+
+#.venv
+.venv
+
+#video
+video
+
+#transcript
+transcript
+
+
+.DS_Store
